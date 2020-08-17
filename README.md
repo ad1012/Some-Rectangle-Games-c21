@@ -1,1 +1,2 @@
-# Some-Rectangle-Games-c21
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
